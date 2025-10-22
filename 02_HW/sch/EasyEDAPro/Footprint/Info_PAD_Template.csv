@@ -1,0 +1,4 @@
+Pad Number,Layer,Center X,Center Y,Rotation,Shape,Width,Height
+1,T,-0.65,0,0,Round,0.249,0.249
+2,B,0,0,0,Rectangle,0.249,0.249
+3,M,0.65,0,0,Oval,0.249,0.124
